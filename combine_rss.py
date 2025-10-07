@@ -4,11 +4,10 @@ from datetime import datetime
 
 # RSS feed URLs
 rss_feeds = [
-    "https://politepol.com/fd/rcF77Nah9SA8.xml"
+    "https://politepol.com/fd/OQ2nDPZ5prpJ.xml"
 ]
 
-ARCHIVE_PREFIX = "https://archive.is/o/b6pd1/"
-
+ARCHIVE_PREFIX = "https://archive.is/o/Z5Aby/"
 def fetch_items(feed_urls):
     all_items = []
     for feed_url in feed_urls:
