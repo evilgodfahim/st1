@@ -4,7 +4,7 @@ from datetime import datetime
 
 # RSS feed URLs
 rss_feeds = [
-    "https://politepol.com/fd/OQ2nDPZ5prpJ.xml"
+    "https://politepaul.com/fd/OQ2nDPZ5prpJ.xml"
 ]
 
 ARCHIVE_PREFIX = "https://archive.is/o/Z5Aby/"
